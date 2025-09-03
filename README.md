@@ -1,23 +1,23 @@
 ## 👋 Olá! Eu sou o Gabriel A. S. Braga
-Estudante de engenharia da computação na UTFPR de Toledo. Na UTFPR fiz vários trabalhos voluntários, como monitor de programação, onde ajudei uma média de 60 alunos mensalmente durante um período de 6 meses. Além disso, fui tesoureiro do centro acadêmico do meu curso. Também fiz iniciação científica, focado na área de sistemas eletrônicos de medida e de controle, para uma micro-rede inteligente baseada em fontes renováveis de energia. Por fim, participei da maratona de programação SBC, ficando em 5° lugar na regional (PR), no ano de 2020. Atualmente estou no 9° período do curso, faltando apenas 2 semestres para minha formatura.
- 
-Competências:
-  * Domínio das linguagens de programação C, C++, C# e Python.
-  * Estrutura de dados e Programação orientada a objetos.
-  * Back-End framework (Django).
-  * Banco de dados (PostgreSQL).
-  * Sistemas embarcados (C e Assembly).
-  * Métodos Ágeis (Kanban e Scrum).
-  * Ferramenta de versionamento (Git). 
- 
-Soft Skills:
-  * Boa oratória.
-  * Organizado.
-  * Simpático.
-  * Disciplinado.
-  * Esforçado.
- 
-Gosto muito de aprender coisas novas, e fico entusiasmado com as oportunidades em que posso trabalhar com pessoas altamente criativas, e com boas práticas de programação, para o desenvolvimento de softwares inovadores. Além disso, também gosto bastante de fazer análises de desempenho e otimização nos softwares após serem feitos.
+
+I am a Computer Engineering graduate from UTFPR with solid experience in back-end software development. I am focused on building robust and efficient solutions. During my journey at Axur, I honed my skills in API integration, microservices deployment, and system optimization, applying design patterns, DDD, and TDD to deliver high-quality, scalable software.
+My academic path was characterized by leadership and research initiatives, including mentoring in programming fundamentals and scientific research on digital controls for microgrids. In 2020, I also achieved 8th place in the SBC Programming Marathon regional competition in Paraná.
+
+My key competencies include:
+ * Programming Languages: Java, Kotlin, Python, C, C++, C#.
+ * Frameworks: Spring, Spark, Django.
+ * SQL Databases: MySQL, PostgreSQL.
+ * NoSQL Databases: MongoDB, Redis, Elasticsearch.
+ * Tools & Technologies: Docker, Jenkins, SonarQube, Liquibase.
+ * Methodologies: Agile (Kanban, Scrum), TDD, DDD.
+ * Version Control: Git.
+ * Observability: Datadog, Grafana.
+ * Message Broker: RabbitMQ.
+ * Cloud: AWS (RDS, EC2, ECS, SQS, CloudFormation, ElastiCache, etc).
+
+In addition to my technical expertise, I value essential soft skills such as effective communication, teamwork, and organization.
+
+I am always looking for challenges that allow me to collaborate with innovative teams and contribute to impactful technological solutions, with a focus on performance analysis and software optimization.
 
 <div align="center">
   <a href="https://github.com/Gabriel-A-S-Braga">
